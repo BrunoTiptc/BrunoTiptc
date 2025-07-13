@@ -31,14 +31,15 @@
 - Quality Assurance com PyTest, Selenium e Postman
 - Estruturas de dados e algoritmos
 - Infraestrutura em nuvem com Google Cloud
-- Idiomas: Inglês 🇺🇸 (Duolingo: 53 dias seguidos!), iniciante em 🇯🇵 🇪🇸 🇫🇷
+- Idiomas: Inglês intermediario , iniciante em japones, frances e espanhol
 
 ---
 
 ### 🔗 Conecte-se comigo
-
+- site[Portifolio](https://brunotiptc.github.io/Desenvolvimento-Web/).
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-c%C3%A9sar-0b54091b0)
 - 📂 [Meus Repositórios](https://github.com/BrunoTiptc?tab=repositories)
+-    .[cerificados google cloud](https://www.cloudskillsboost.google/public_profiles/7003e257-03d8-4227-8d7b-039b95b601e1?locale=pt_BR)
 
 ---
 
