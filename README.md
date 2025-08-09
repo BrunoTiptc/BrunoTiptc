@@ -9,7 +9,7 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🧶 [**CrochêPTC**](https://github.com/BrunoTiptc/CrochePTC1) – Projeto IoT e sustentabilidade com Google Cloud  
+- 🧶 [**CrochêPTC**](https://github.com/BrunoTiptc/CrochePTC1) – Projeto compra e vendas 
 - 🔧 [**SOS**](https://github.com/BrunoTiptc/SOS) – Sistema de controle de entregas com C++ e Qt  
 - 🐞 [**Bughunter**](https://github.com/BrunoTiptc/bughunter) – Front-end React para testes QA  
 - 📦 [**Backend Python**](https://github.com/BrunoTiptc/backend_python) – Algoritmos e estudos da DIO  
