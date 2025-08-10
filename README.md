@@ -2,7 +2,7 @@
 
 <p align="center">
   Engenheiro de Software em formação, pai do Arthur, apaixonado por tecnologia, QA e projetos que resolvem problemas reais!<br>
-  Estudando para o Concurso do INSS • Focado em QA, Python, C++, Java, Cloud ☁️
+  Estudos continuo • Focado em QA, Python, C++, Java, Cloud ☁️
 </p>
 
 ---
