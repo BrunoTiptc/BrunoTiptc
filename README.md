@@ -11,7 +11,7 @@
 
 - 🧶 [**CrochêPTC**](https://github.com/BrunoTiptc/CrochePTC1) – Projeto compra e vendas  
 - 🔧 [**SOS**](https://github.com/BrunoTiptc/SOS) – Sistema de controle de entregas com C++ e Qt  
-- 🐞 [**Bughunter**](https://github.com/BrunoTiptc/bughunter) – Front-end React para testes QA  
+- 🐞 [**Bughunter**](https://github.com/BrunoTiptc/bughunter) – Front-end React + Back-end Flask para testes QA 
 - 📦 [**Backend Python**](https://github.com/BrunoTiptc/backend_python) – Algoritmos e estudos da DIO  
 - 🤖 [**Curso Cursor IA**](https://github.com/BrunoTiptc/cursor-ia) – Projetos e exercícios de IA com Python  
 
@@ -47,7 +47,9 @@
 - 🌐 [Portfólio](https://brunotiptc.github.io/Desenvolvimento-Web/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-c%C3%A9sar-0b54091b0)  
 - 📂 [Meus Repositórios](https://github.com/BrunoTiptc?tab=repositories)  
-- 🎓 [Certificados Google Cloud](https://www.cloudskillsboost.google/public_profiles/7003e257-03d8-4227-8d7b-039b95b601e1?locale=pt_BR)  
+- 🎓 [Certificados Google Cloud](https://www.cloudskillsboost.google/public_profiles/7003e257-03d8-4227-8d7b-039b95b601e1?locale=pt_BR)
+- 🎓 [Certificados DIO](https://web.dio.me/users/brunimptc2009?tab=achievements)
+
 
 ---
 
