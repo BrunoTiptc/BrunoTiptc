@@ -2,29 +2,33 @@
 
 <p align="center">
   Engenheiro de Software em formação, pai do Arthur, apaixonado por tecnologia, QA e projetos que resolvem problemas reais!<br>
-  Estudos continuo • Focado em QA, Python, C++, Java, Cloud ☁️
+  Estudos contínuos • Focado em QA, Python, C++, Java, Cloud ☁️
 </p>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-- 🧶 [**CrochêPTC**](https://github.com/BrunoTiptc/CrochePTC1) – Projeto compra e vendas 
+- 🧶 [**CrochêPTC**](https://github.com/BrunoTiptc/CrochePTC1) – Projeto compra e vendas  
 - 🔧 [**SOS**](https://github.com/BrunoTiptc/SOS) – Sistema de controle de entregas com C++ e Qt  
 - 🐞 [**Bughunter**](https://github.com/BrunoTiptc/bughunter) – Front-end React para testes QA  
 - 📦 [**Backend Python**](https://github.com/BrunoTiptc/backend_python) – Algoritmos e estudos da DIO  
+- 🤖 [**Curso Cursor IA**](https://github.com/BrunoTiptc/cursor-ia) – Projetos e exercícios de IA com Python  
 
 ---
 
 ### 🧰 Tecnologias que uso
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/-IA%20Python-FF6F00?style=flat&logo=python&logoColor=white" alt="Cursor IA" />
+</p>
 
 ---
 
@@ -33,6 +37,7 @@
 - Quality Assurance com PyTest, Selenium e Postman  
 - Estruturas de dados e algoritmos  
 - Infraestrutura em nuvem com Google Cloud  
+- Inteligência Artificial com Python (Curso Cursor IA)  
 - Idiomas: Inglês intermediário, iniciante em japonês, francês e espanhol  
 
 ---
