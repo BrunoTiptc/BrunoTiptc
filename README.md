@@ -28,7 +28,7 @@
  – Python · Pandas · Data Science · Machine Learning
 
 📈 Pequeno Insight Técnico
-<p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" /> </p> <p align="center"> <sub>Experiência prática com estatística aplicada, EDA, distribuição de dados, correlação, visualização e testes de hipótese usando Python.</sub> </p> <p align="center"> <!-- Mini gráfico SVG simples e limpo --> <svg width="200" height="80" viewBox="0 0 200 80"> <polyline fill="none" stroke="#4CAF50" stroke-width="3" points="0,60 40,50 80,55 120,35 160,30 200,20" /> </svg> </p>
+<p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" /> </p> <p align="center"> <sub>Estatística aplicada • EDA • Distribuição de dados • Correlação • Visualização • Testes de hipótese</sub> </p>
 
 
 ---
