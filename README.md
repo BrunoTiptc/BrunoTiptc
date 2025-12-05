@@ -27,8 +27,6 @@
 📊 Python Ciência de Dados – Santander/DIO
  – Python · Pandas · Data Science · Machine Learning
 
-📈 Pequeno Insight Técnico
-<p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" /> </p> <p align="center"> <sub>Estatística aplicada • EDA • Distribuição de dados • Correlação • Visualização • Testes de hipótese</sub> </p>
 
 
 ---
