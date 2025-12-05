@@ -7,13 +7,28 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+🚀 Projetos com cursos em Destaque
 
-- 🤖 [**Cursor IA Python**](https://github.com/BrunoTiptc/cursor-ia) – Projetos e exercícios de IA com Python
-- 📦 [**Backend Python**](https://github.com/BrunoTiptc/backend_python) – Algoritmos e estudos da DIO  
-- 🧶 [**CrochêPTC**](https://github.com/BrunoTiptc/CrochePTC1) – Projeto compra e vendas  
-- 🔧 [**SOS**](https://github.com/BrunoTiptc/SOS) – Sistema de controle de entregas com C++ e Qt  
-- 🐞 [**Bughunter**](https://github.com/BrunoTiptc/bughunter) – Front-end React + Back-end Flask para testes QA 
+🤖 Cursor IA Python
+ – Python · IA · Automação · Machine Learning
+
+📦 Backend Python
+ – Python · APIs · Algoritmos · DIO
+
+🧶 CrochêPTC
+ – Java · Android · Firebase · Vendas
+
+🔧 SOS
+ – C++ · Qt · MySQL · Sistema de Entregas
+
+🐞 Bughunter
+ – React · Flask · QA · Testes Automatizados
+
+📊 Python Ciência de Dados – Santander/DIO
+ – Python · Pandas · Data Science · Machine Learning
+
+📈 Pequeno Insight Técnico
+<p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" /> </p> <p align="center"> <sub>Experiência prática com estatística aplicada, EDA, distribuição de dados, correlação, visualização e testes de hipótese usando Python.</sub> </p> <p align="center"> <!-- Mini gráfico SVG simples e limpo --> <svg width="200" height="80" viewBox="0 0 200 80"> <polyline fill="none" stroke="#4CAF50" stroke-width="3" points="0,60 40,50 80,55 120,35 160,30 200,20" /> </svg> </p>
 
 
 ---
