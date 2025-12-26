@@ -7,25 +7,32 @@
 
 ---
 
-🚀 Projetos com cursos em Destaque
+## 🚀 Projetos com Cursos em Destaque
 
-🤖 Cursor IA Python
- – Python · IA · Automação · Machine Learning
+🤖 **Cursor IA Python**  
+– Python · IA · Automação · Machine Learning · Git · Gitflow
 
-📦 Backend Python
- – Python · APIs · Algoritmos · DIO
+📦 **Backend Python**  
+– Python · APIs REST · Algoritmos · DIO · Git · Versionamento
 
-🧶 CrochêPTC
- – Java · Android · Firebase · Vendas
+🧶 **CrochêPTC**  
+– Java · Android · Firebase · Vendas · Arquitetura Mobile
 
-🔧 SOS
- – C++ · Qt · MySQL · Sistema de Entregas
+🔧 **SOS**  
+– C++ · Qt · MySQL · Sistema de Entregas · Lógica de Negócio
 
-🐞 Bughunter
- – React · Flask · QA · Testes Automatizados
+🐞 **Bughunter**  
+– React · Flask · QA · Testes Automatizados · Git · Workflows
 
-📊 Python Ciência de Dados – Santander/DIO
- – Python · Pandas · Data Science · Machine Learning
+📊 **Python Ciência de Dados (Santander / DIO)**  
+– Python · Pandas · Data Science · Machine Learning · Análise de Dados
+
+🧪 **QA & Automação de Testes**  
+– Cypress · Selenium · Testes E2E · Testes de API · Zephyr · QA Mindset
+
+☁️ **Cloud & Dev Practices**  
+– Google Cloud · CI/CD · GitHub Actions · Gitflow · Versionamento Profissional
+
 
 
 
