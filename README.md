@@ -69,7 +69,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-c%C3%A9sar-0b54091b0)  
 - 📂 [Meus Repositórios](https://github.com/BrunoTiptc?tab=repositories)  
 - 🎓 [Certificados Google Cloud](https://www.cloudskillsboost.google/public_profiles/7003e257-03d8-4227-8d7b-039b95b601e1?locale=pt_BR)
-- 🎓 [Certificados DIO](https://www.dio.me/users/brunimptc2009)
+- 🎓 [Certificados DIO](https://github.com/BrunoTiptc/BrunoTiptc/tree/main/Certificados%20DIO)
 
 
 ---
