@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Projetos com Cursos em Destaque
+## 🚀 Projetos Aplicados (Cursos + Prática)
 
 🤖 **Cursor IA Python**  
 – Python · IA · Automação · Machine Learning · Git · Gitflow
