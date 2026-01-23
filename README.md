@@ -25,8 +25,6 @@
 🔧 **SOS**  
 – C++ · Qt · MySQL · Sistema de entregas · Lógica de negócio
 
-📊 **Python Ciência de Dados (Santander / DIO)**  
-– Python · Pandas · Data Science · Machine Learning · Análise de dados
 
 ---
 
