@@ -7,23 +7,23 @@
 </p>
 
 ---
-
 ## 🚀 Projetos Aplicados (Foco QA + Desenvolvimento)
 
-🧪 **QA & Automação de Testes** (DIO/Bradesco)  
-– Cypress · Selenium · PyTest · Postman · Testes E2E · Testes de API · QA Mindset · Git
+🧠 **IA QA Lab (Projeto Autoral)**
+– Python · QA aplicado a IA · Testes funcionais · Testes de performance · Testes de carga · Análise de comportamento de modelos · Git · Documentação técnica
 
-🐞 **Bughunter**  
-– React · Flask · QA · Testes Automatizados · Git · Workflows
-
-🤖 **Optimus-Robot**  
-– Python · IA · Sistemas distribuídos · Mensageria assíncrona · QA aplicado
-
-📦 **Backend Python**  
+📦 **Backend Python**
 – Python · APIs REST · Algoritmos · DIO · Git · Versionamento
 
-🔧 **SOS**  
-– C++ · Qt · MySQL · Sistema de entregas · Lógica de negócio
+🧪 **QA & Automação de Testes** (DIO/Bradesco)
+– Cypress · Selenium · PyTest · Postman · Testes E2E · Testes de API · QA Mindset · Git
+
+🐞 **Bughunter**
+– React · Flask · QA · Testes Automatizados · Git · Workflows
+
+🤖 **Optimus-Robot**
+– Python · IA · Sistemas Distribuídos · Mensageria Assíncrona · QA Aplicado
+
 
 
 ---
