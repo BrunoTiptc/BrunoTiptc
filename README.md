@@ -9,7 +9,7 @@
 ---
 ## 🚀 Projetos Aplicados (Foco QA + Desenvolvimento)
 
-🧠 **IA QA Lab (Projeto Autoral)**
+🧠 **IA QA Lab **
 – Python · QA aplicado a IA · Testes funcionais · Testes de performance · Testes de carga · Análise de comportamento de modelos · Git · Documentação técnica
 
 📦 **Backend Python**
