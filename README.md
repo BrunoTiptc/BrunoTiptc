@@ -60,7 +60,7 @@
 - 🌐 [Portfólio](https://brunotiptc.github.io/Desenvolvimento-Web/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-c%C3%A9sar-0b54091b0)  
 - 📂 [GitHub](https://github.com/BrunoTiptc?tab=repositories)
-- 🎓 [Certificados Credly](https://www.credly.com/users/bruno-cesar-alves/badges))  
+- 🎓 [Certificados Credly](https://www.credly.com/users/bruno-cesar-alves/badges)  
 - 🎓 [Certificados Google Cloud](https://www.cloudskillsboost.google/public_profiles/7003e257-03d8-4227-8d7b-039b95b601e1?locale=pt_BR)  
 - 🎓 [Certificados DIO](https://github.com/BrunoTiptc/BrunoTiptc/tree/main/Certificados%20DIO)
 
