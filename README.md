@@ -4,7 +4,6 @@
   QA Júnior em formação | Engenheiro de Software em evolução contínua<br>
   Pai do Arthur • Apaixonado por qualidade, automação e sistemas confiáveis  
   Foco: QA, Python, C++, Java, Cloud ☁️
-
   Faço parte da comunidade e do grupo de Google Devoloper Program
 </p>
 
