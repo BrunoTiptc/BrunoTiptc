@@ -3,7 +3,6 @@
 <p align="center">
   <strong>QA Engineer | Test Automation | Playwright | JavaScript | API Testing | Selenium | Cypress</strong><br>
   Pai do Arthur • Focado em qualidade, automação e sistemas confiáveis<br>
-  QA | Python | JavaScript | APIs | Cloud ☁️<br><br>
   Membro do Google Developer Program
 </p>
 
