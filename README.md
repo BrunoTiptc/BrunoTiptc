@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Bruno!</h1>
 
 <p align="center">
-  <strong>QA Engineer | Test Automation | JavaScript | API Testing | Selenium | Cypress</strong><br>
+  <strong>QA Engineer | Test Automation | Playwright | JavaScript | API Testing | Selenium | Cypress</strong><br>
   Pai do Arthur • Focado em qualidade, automação e sistemas confiáveis<br>
   QA | Python | JavaScript | APIs | Cloud ☁️<br><br>
   Membro do Google Developer Program
@@ -29,9 +29,9 @@
 ---
 
 ### 🧪 QA & Automação de Testes (DIO/Bradesco)  
-**Cypress · Selenium · PyTest · Postman · E2E · API Testing**
+**Playwright · Cypress · Selenium · PyTest · Postman · E2E · API Testing**
 
-- Automatizei testes end-to-end (E2E) e testes de API  
+- Automatizei testes end-to-end (E2E) com Playwright e Cypress, além de testes de API  
 - Validei fluxos críticos e comportamento do sistema  
 - Criei cenários de teste e identifiquei falhas  
 
@@ -56,6 +56,7 @@
 ## 🧰 Tecnologias
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
@@ -72,7 +73,7 @@
 
 ## 📚 Aprofundamento Técnico
 
-- Test Automation: Selenium, Cypress, PyTest  
+- Test Automation: Playwright, Selenium, Cypress, PyTest 
 - API Testing (REST, validação de endpoints)  
 - Estruturas de dados e algoritmos  
 - Cloud Computing (Google Cloud)  
