@@ -10,6 +10,14 @@
 
 ## 🚀 Projetos Aplicados (Foco em QA)
 
+### 🤖 Optimus-Robot  
+**Python · IA · Sistemas Distribuídos · Mensageria Assíncrona**
+
+- Desenvolvimento de sistema distribuído  
+- Aplicação de QA para validação de integração e comportamento  
+
+---
+
 ### 🧠 IA QA Lab  
 **Python · QA aplicado à IA · Performance · Load Testing · Git**
 
@@ -44,13 +52,6 @@
 
 ---
 
-### 🤖 Optimus-Robot  
-**Python · IA · Sistemas Distribuídos · Mensageria Assíncrona**
-
-- Desenvolvimento de sistema distribuído  
-- Aplicação de QA para validação de integração e comportamento  
-
----
 
 ## 🧰 Tecnologias
 
